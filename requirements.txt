@@ -1,3 +1,7 @@
 ipykernel
 matplotlib
 pandas
+tables
+seaborn
+scipy
+statsmodels
