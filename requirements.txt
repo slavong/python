@@ -5,3 +5,6 @@ tables
 seaborn
 scipy
 statsmodels
+openpyxl
+sqlalchemy<2.0
+requests
