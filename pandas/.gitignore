@@ -1,0 +1,4 @@
+*.hdf5
+*.pkl
+*.csv
+!new_dogs.csv
